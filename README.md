@@ -11,7 +11,6 @@
 ### 使用方法
 
 ​	首先你需要拥有一个自己的百度翻译的ID与KEY，如何申请:https://jingyan.baidu.com/article/3f16e00305bb552591c10304.html
-(σﾟ∀ﾟ)σ..:*☆哎哟不错哦
 ​	打开main.py文件，找到`tran()`函数，将你的id与key值替换your_id与your_key即可。
 
 ```python
