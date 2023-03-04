@@ -13,9 +13,9 @@
 ​	首先你需要拥有一个自己的百度翻译的ID与KEY，如何申请:https://jingyan.baidu.com/article/3f16e00305bb552591c10304.html
 
 ```python
-	
+	gui = GUI(appid='your_id', key='your_key')
 ```
 
-​	:http://api.fanyi.baidu.com/product/113
+​	官方文档:http://api.fanyi.baidu.com/product/113
 
 ​	如果想增加翻译的类型，或者指定翻译语言，也可以自己修改🎶
