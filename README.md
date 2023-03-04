@@ -18,4 +18,4 @@
    	gui = GUI(appid='your_id', key='your_key')
    ```
 
-3. Finally, have fun.🥳🥳
+3. Finally, run `translator.py` have fun.🥳🥳
